@@ -1,16 +1,11 @@
 # todo_list
 
-A new Flutter project.
+Projeto de todo list criado pelo curso do flutter na Udemy https://www.udemy.com/course/curso-completo-flutter-app-android-ios/
 
-## Getting Started
+## Mudanças que fiz em relação ao curso
 
-This project is a starting point for a Flutter application.
+Ao invés de seguir ele a risca, modifiquei o aviso do popup que ao invés de utilizar o alert dialog utilizei o showModalBottomSheet. Além de utilizar outro botão para ficar mais bonito.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/alepfilho/todo_list_flutter/blob/main/print_1.png?raw=true)
+![alt text](https://github.com/alepfilho/todo_list_flutter/blob/main/print_2.png?raw=true)
+![alt text](https://github.com/alepfilho/todo_list_flutter/blob/main/print_3.png?raw=true)
